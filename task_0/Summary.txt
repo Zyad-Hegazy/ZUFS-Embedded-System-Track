@@ -8,3 +8,7 @@ How Git Uses DVCS :
 2- Make local changes: git add, git commit
 3- Push changes to a remote repository: git push
 4- Pull updates from others: git pull
+
+Another useful commands :
+1-making a new file: touch
+2-making a new directory: mkdir
