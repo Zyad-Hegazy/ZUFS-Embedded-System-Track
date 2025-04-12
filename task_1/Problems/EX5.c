@@ -4,7 +4,7 @@
 int main(void){
     char ch;
     printf("Enter a character: ");
-    while(scanf("%c", &ch) != 1 || !isalpha(ch)){
+    while(scanf(" %c", &ch) != 1 || !isalpha(ch)){
         printf("Invalid input, Please enter a Character: ");
         while (getchar() != '\n');
     }

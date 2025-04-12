@@ -1,0 +1,10 @@
+Git vs. GitHub: What's the Difference?
+
+    Git is a Distributed Version Control System (DVCS), while GitHub is a cloud-based platform that hosts Git repositories and provides additional collaboration tools for developers.so what is the Distributed Version Control System (DVCS) it is a type of version control where each user has a full copy pf the Repository so they Can add or edit features in the same time that leads to faster work and much safer work cause each person of the team has a copy of a Repository if anything went wrong and it solves if there is a problem with internet because the developer can work offline and then push the changes to the remote Repository when the connection is back. 
+    Then now lets talk about how Git works and the main command of Git:
+
+How Git Uses DVCS :
+1- Clone a remote repository: git clone URL
+2- Make local changes: git add, git commit
+3- Push changes to a remote repository: git push
+4- Pull updates from others: git pull
